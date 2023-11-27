@@ -11,8 +11,8 @@ export const Rodape = styled.footer`
 export const Linha = styled.div`
     width: 391px;
     height: 0px;
-    margin: 0 auto 0px;
-    border: 1px solid #ECEFF2
+    margin: 0 auto;
+    border: 1px solid #ECEFF2;
 `;
 
 export const ImgWave = styled.img`

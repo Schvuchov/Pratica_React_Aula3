@@ -13,7 +13,7 @@ export const DivImagem = styled.div`
 `;
 
 export const Imagem = styled.img`
-    margin-bottom: 32px;
+    margin-bottom: 30px;
 `;
 
 export const Titulo = styled.h1`

@@ -1,17 +1,15 @@
 import { GlobalStyle } from '../../globalStyles'
-import { Main } from '../../components/Main'
+import { Form } from '../../components/Form'
 import { Footer } from '../../components/Footer'
 
 
 
-export function Home(){
+export function Formulario(){
   
    return(
        <>
             <GlobalStyle/>
-
-            <Main/>
-
+            <Form/>
             <Footer/>
        </>
    )

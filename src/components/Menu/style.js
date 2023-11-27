@@ -6,5 +6,6 @@ export const DivLinks = styled.div`
 
 export const Links = styled.a`
     color: black;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
+    padding: 10px;
 `;

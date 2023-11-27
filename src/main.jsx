@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import {Home} from './pages/Home/index.jsx'
+import {Formulario} from './pages/Formulario/index.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home />
+    <Formulario />
   </React.StrictMode>,
 )
